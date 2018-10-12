@@ -1,9 +1,10 @@
 body {
      color: #fff;
-     background: url(https://cdn.hipwallpaper.com/i/65/40/TsAyXD.jpg) ;
+     background: url(https://cdn.hipwallpaper.com/i/65/40/TsAyXD.jpg);
+     background-size: cover;
      
 }
 
 a {
-  color:black ;
+  color: black;
 }
