@@ -11,9 +11,13 @@ a {
 div {
      background-color: rgb(225, 0, 225);
 }
-.kotak 1 {
- background-color: blue;    
+.kotak1 {
+ background-color: blue;   
+     width: 400px;
+     height: 800px;
 }
-.kotak 2 {
-     backgroun-color: red;
+.kotak2 {
+     background-color: red;
+     width: 50%;
+     height: 10%;
 }
