@@ -31,7 +31,7 @@ div {
 .main {
  background-color: rgb(255, 105, 180);
  color: rgb(220, 20, 60);
-     width: 50%;
-     height: 100px
-     float: sidebar;
+ width: 50%;
+ height: 100px;
+ float: right;
 }
