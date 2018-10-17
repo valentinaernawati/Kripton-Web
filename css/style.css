@@ -24,8 +24,14 @@ div {
 .hotel {
  background-color: rgb(255, 69, 0);
      color: rgb(139, 0, 0);
+     width: 50%;
+     height: 100px;
+     float: left;
 }
 .main {
  background-color: rgb(255, 105, 180);
  color: rgb(220, 20, 60);
+     width: 50%;
+     height: 100px
+     float: sidebar;
 }
