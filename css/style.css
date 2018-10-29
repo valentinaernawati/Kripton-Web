@@ -1,29 +1,13 @@
-body {
-     color: rgb(0, 0, 0);
-     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjBnymb3iQNgecec11A5j3gwd70oxjIOWqa5nZ8KRbJYBFL1k);
-     background-size: cover;
-     
+.header {
+    color: rgb(0, 0, 139);
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-top: 5px;
 }
 
-a {
-  color: black;
-}
-div {
-     background-color: rgb(225, 0, 225);
-}
-
-}
-.hotel {
- background-color: rgb(255, 69, 0);
-     color: rgb(139, 0, 0);
-     width: 50%;
-     height: 100px;
-     float: left;
-}
-.main {
- background-color: rgb(255, 105, 180);
- color: rgb(220, 20, 60);
- width: 50%;
- height: 100px;
- float: right;
+.header a {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
 }
